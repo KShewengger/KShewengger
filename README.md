@@ -1,26 +1,18 @@
 <h3 >
-  <samp>&gt; Hey There! I am
-    <b><a target="_blank" href="https://github.com/KShewengger">Kristy Mae Almuete</a></b>
-  </samp>
+  <code>&gt; Hey There! I am <b><a target="_blank" href="https://github.com/KShewengger">Kristy Mae Almuete</a></b></code>
 </h3>
 
-<h4 >
-  <span style="background: linear-gradient(to right, #E10098, #DD0031); -webkit-background-clip: text; color: transparent;">
-    Front-End Engineer | Angular Expert | Typescript Enthusiast
-  </span>
-</h4>
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristy-mae-almuete-7a8963b5/)
-[![Github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KShewengger)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kristyalmuete@gmail.com)
-​
+[![Stackoverflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6891406/kshewengger)
+
 
 ### 👋 About Me
 
-- 🚀 A dedicated software engineer with over 6 years of experience in Front End Engineering. 
-- ⚡️ Specializes in crafting efficient and scalable web applications using Angular, NgRx, and NodeJS
-- 🏆 Contributor to Angular and Typescript StackOverflow Communities
-- 🌏 Remote work experience with companies based in Singapore, USA, Spain, and Amsterdam​
+- 🚀 A dedicated software engineer with over **6 years** of experience in **Front End Engineering**. 
+- ⚡️ Specializes in crafting efficient and scalable web applications using **Angular, NgRx, and NodeJS**
+- 🏆 Contributor to **Angular** and **Typescript** StackOverflow Communities
+- 🌏 Remote work experience with companies based in **Singapore, USA, Spain, and Amsterdam​**
 ​
 ### 🛠️ Skills & Technologies
 
