@@ -4,7 +4,7 @@
 
 ### 👋 About Me
 
-- 🚀 A dedicated software engineer with over **6 years** of experience in **Front End Engineering**. 
+- 🚀 A dedicated software engineer with over **7 years** of experience in **Front End Engineering**. 
 - ⚡️ Specializes in crafting efficient and scalable web applications using **Angular, NgRx, and NodeJS**
 - 🏆 Contributor to **Angular** and **Typescript** StackOverflow Communities
 - 🌏 Remote work experience with companies based in **Singapore, USA, Spain, and Amsterdam​**
